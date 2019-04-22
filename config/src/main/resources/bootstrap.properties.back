@@ -1,0 +1,3 @@
+server.port=9090
+spring.cloud.config.server.native.searchLocations=file://${HOME}/Sandbox/properties/
+SPRING_PROFILES_ACTIVE=native
